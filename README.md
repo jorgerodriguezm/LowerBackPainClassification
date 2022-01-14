@@ -4,7 +4,7 @@
 
 The goal of this repository is to use the Lower Back Pain Symptoms Dataset to build a Machine Learning Model using Logistic Regression to predict lower back pain in a given individual.
 
-### F1 score: 0.86
+### F1-Score: 0.86
 
 ### Published Kaggle Kernel:
 
@@ -12,7 +12,7 @@ The goal of this repository is to use the Lower Back Pain Symptoms Dataset to bu
 
 ### Model in this Repository:
 
-- [Lower Back Pain Classification]()
+- [Lower Back Pain Classification](https://github.com/jorgerodriguezm/LowerBackPainClassification/blob/main/Model/lower-back-pain-prediction.ipynb)
 
 ### Lower Back Pain Classification
 
